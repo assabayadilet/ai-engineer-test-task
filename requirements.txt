@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.29
+langgraph>=0.1.0
+langchain-core>=0.2.0
+fastmcp>=0.1.0
+mcp>=0.1.0
+pydantic>=2.0
+pytest>=7.0
